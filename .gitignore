@@ -1,0 +1,46 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# IDE configuration files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.bak
+
+# pyenv
+.python-version
+
+# Test and coverage files
+nosetests.xml
+coverage.xml
+*.cover
+*.tox/
+*.nox/
+*.coverage
+*.hypothesis/
+
+# mypy
+.mypy_cache/
+
+# Pylint
+.pylint.d/
+
+# Django settings file
+*.sqlite3
+db.sqlite3
